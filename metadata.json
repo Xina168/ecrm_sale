@@ -1,0 +1,6 @@
+{
+  "name": "E-CRM K.S.P.M Analysis",
+  "description": "An interactive web application to upload Excel files, configure data views, and visualize insights through dynamic charts and summary statistics.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
